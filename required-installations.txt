@@ -1,0 +1,3 @@
+- Java SE Development Kit (JDK): You can download the latest version from the official site.
+- Apache NetBeans IDE: You can download the latest version from the official site.
+- Postgre SQL: You can download the latest version from the official site. You do not have to download "Stack Builder" during installation for this project.
